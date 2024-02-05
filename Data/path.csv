@@ -1,0 +1,17 @@
+0;('-', 'f') with plural -en;Left
+1;tense=0 at position -1 with plural -e;Left
+465;('-', 'f') with plural -e;Right
+466;('1', '1') with plural -e;Left
+542;lab=1 at position -2 with plural -e;Left
+543;('-s', 'm') with plural -e;Left
+544;hi=1 at position -2 with plural -e;Left
+545;lo=-1 at position -3 with plural -e;Right
+567;lo=1 at position -2 with plural -e;Left
+568;round=1 at position -3 with plural -e;Left
+569;('-en', 'm') with plural -e;Left
+570;nas=-1 at position -3 with plural -e;Right
+574;lat=1 at position -3 with plural -e;Left
+575;nas=1 at position -2 with plural -e;Left
+576;lat=-1 at position -2 with plural -e;Right
+582;cor=-1 at position -3 with plural -e;Right
+586;Leaf;
